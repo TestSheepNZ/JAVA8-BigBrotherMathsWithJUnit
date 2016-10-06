@@ -13,7 +13,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class mathsWithBigBrother {
+public class MathsWithBigBrother {
     public static int thePartyDecreesCalc (int num1, int num2)
     {
            int answer = 0;
